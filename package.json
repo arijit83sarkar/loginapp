@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arijit83sarkar/loginapp/issues"
   },
-  "homepage": "https://github.com/arijit83sarkar/loginapp#readme"
+  "homepage": "https://github.com/arijit83sarkar/loginapp#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
